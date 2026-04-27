@@ -1,0 +1,26 @@
+[
+    {
+        "id": "msg_69e7bdc62916f5.51764480",
+        "timestamp": "2026-04-21 20:11:18",
+        "nume": "Popovici",
+        "prenume": "Maria",
+        "email": "popovicimaria855@gmail.com",
+        "telefon": "+373 78 678 456",
+        "destinatie": "Paris, Franța",
+        "data_plecare": "2026-04-30",
+        "persoane": 2,
+        "mesaj": "Vreau o vacanta frumoasa"
+    },
+    {
+        "id": "msg_69ef0969059b64.89633957",
+        "timestamp": "2026-04-27 08:59:53",
+        "nume": "Repa",
+        "prenume": "Alina",
+        "email": "alinarepa@gmail.com",
+        "telefon": "+373 78 678 456",
+        "destinatie": "Maldive, Maldive",
+        "data_plecare": "2026-04-30",
+        "persoane": 2,
+        "mesaj": "Vreau o vacanta de vis"
+    }
+]
