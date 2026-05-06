@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nume": "Paris",
+        "tara": "Franța",
+        "continent": "europa",
+        "emoji": "🇫🇷",
+        "atractie": "Turnul Eiffel, Luvru",
+        "durata": "5-7 zile",
+        "pret": 499,
+        "status": "popular",
+        "imagine": "https:\/\/images.unsplash.com\/photo-1502602898657-3e91760cbb34?w=400&h=200&fit=crop",
+        "descriere": "Orașul Luminilor te cucerește cu Turnul Eiffel, muzeul Luvru și romantismul străzilor pavate din Montmartre."
+    },
+    {
+        "id": 2,
+        "nume": "Roma",
+        "tara": "Italia",
+        "continent": "europa",
+        "emoji": "🇮🇹",
+        "atractie": "Colosseum, Vatican, Fontana di Trevi",
+        "durata": "4-6 zile",
+        "pret": 399,
+        "status": "popular",
+        "imagine": "https:\/\/images.unsplash.com\/photo-1552832230-c0197dd311b5?w=400&h=200&fit=crop",
+        "descriere": "Orașul Etern îmbină istoria antică cu viața modernă — Colosseum, Vatican și o pizza autentică la fiecare colț."
+    },
+    {
+        "id": 3,
+        "nume": "Tokyo",
+        "tara": "Japonia",
+        "continent": "asia",
+        "emoji": "🇯🇵",
+        "atractie": "Templul Senso-ji, Muntele Fuji, Shibuya",
+        "durata": "7-10 zile",
+        "pret": 899,
+        "status": "nou",
+        "imagine": "https:\/\/images.unsplash.com\/photo-1540959733332-eab4deabeeaf?w=400&h=200&fit=crop",
+        "descriere": "Metropola unde tradițiile samurailor se întâlnesc cu tehnologia viitorului — temple, sushi și neoane strălucitoare."
+    },
+    {
+        "id": 4,
+        "nume": "Maldive",
+        "tara": "Maldive",
+        "continent": "asia",
+        "emoji": "MV",
+        "atractie": "Plaje de corali, Vile pe apă, Snorkeling",
+        "durata": "7-10 zile",
+        "pret": 1299,
+        "status": "popular",
+        "imagine": "https:\/\/images.unsplash.com\/photo-1514282401047-d79a71a590e8?w=400",
+        "descriere": "Paradis tropical cu ape turcoaz și plaje albe imaculate"
+    },
+    {
+        "id": 5,
+        "nume": "Barcelona",
+        "tara": "Spania",
+        "continent": "europa",
+        "emoji": "ES",
+        "atractie": "Sagrada Familia, Park Güell, Las Ramblas",
+        "durata": "5-7 zile",
+        "pret": 549,
+        "status": "popular",
+        "imagine": "https:\/\/images.unsplash.com\/photo-1583422409516-2895a77efded?w=400",
+        "descriere": "Oraș vibrant cu arhitectură Gaudí și plaje mediteraneene"
+    }
+]
